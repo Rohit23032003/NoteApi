@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon APis/index.js"
+    "start": "nodemon APis/index.js",
+    "build":"npm i"
   },
   "author": "",
   "license": "ISC",
